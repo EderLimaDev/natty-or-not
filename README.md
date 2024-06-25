@@ -1,4 +1,4 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Javascript e suas aplicações na Terra Média 🎥
 
 ## 📒 Descrição
 Este vídeo apresenta o potencial e da aplicação das IAs Generativas na criação de conteúdo.
